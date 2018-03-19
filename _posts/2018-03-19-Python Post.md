@@ -38,3 +38,5 @@ if(sports==1 and videogames==1):
 else:
   print("You are a Leo that will not aspire to great things, since you don't care about sports or video games, you should consider buying a PS4 or Xbox.")
 print("Thank you",x,"for using this program. Good bye now.")
+
+https://repl.it/@sraul/Python-Day-2-CS-105
